@@ -4,7 +4,7 @@ import Profileinfo from './component/Profileinfo';
 function App() {
   return (
     <div className="App">
-      <Profileinfo />
+      <Profileinfo/>
     </div>
   );
 }
